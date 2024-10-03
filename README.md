@@ -26,20 +26,20 @@
 - город нахождения магазина;
 - количество пользователей, закреплённых в этом магазине.
 
-  ![alt text](https://github.com/sAslank/SQL-2/blob/main/img/1.jpg)
+  ![alt text](https://github.com/sAslank/SQL-2/blob/main/Img/1.jpg)
 
 ### Задание 2
 
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
-![alt text](https://github.com/sAslank/SQL-2/blob/main/img/2.jpg)
+![alt text](https://github.com/sAslank/SQL-2/blob/main/Img/2.jpg)
 
 ### Задание 3
 
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
 
-![alt text](https://github.com/sAslank/SQL-2/blob/main/img/3.jpg)
+![alt text](https://github.com/sAslank/SQL-2/blob/main/Img/3.jpg)
 
 
 ## Дополнительные задания (со звёздочкой*)
